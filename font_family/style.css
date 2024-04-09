@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    width: 100%;
+    height: 69px;
+    background-color: rgb(113, 241, 15);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Bootstrap{
+    font-size: 33px;
+    font-weight: bolder;
+    color: rgb(35, 26, 26);
+    text-decoration: none;
+}
+
+.navbar__lists a{
+    font-size: 18px;
+    color: rgb(35, 26, 26);
+    font-weight: bolder;
+    gap: 5px;
+}
+.navbar__lists{
+    display: flex;
+    gap: 30px;
+}
+.box_1{
+    width: 100%;
+    height:500px;
+    background: url(https://bmw.scene7.com/is/image/BMW/g60-bev-tech-data-stage-ext-3-4-front-1?wid=3000&hei=3000);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    background-position: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+.world_1{
+    background-color: rgb(12, 70, 197);
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box_2{
+    width: 100%;
+    height: 500px;
+    background-color:rgb(238, 21, 140);
+    color: rgb(238, 240, 241);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+.world_2{
+    width: 500px;
+    height: 199px;
+}
+.box_3{
+    width: 100%;
+    height: 500px;
+    background: url(https://www.mbusa.com/content/dam/mb-nafta/us/myco/my22/c/sedan/all-vehicles/2022-C300-SEDAN-AVP-DR.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+    background-attachment: fixed;
+  
+}
+.box_4{
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.world_3{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+   
+}
+
+.box_5{
+    width: 100%;
+    height: 150px;
+    background-color: rgb(14, 12, 12);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.world_4{
+    color: rgb(78, 140, 215);
+    display: flex;
+    flex-direction: column;
+}
+body{
+font-family: "Pixelify Sans", sans-serif;
+}

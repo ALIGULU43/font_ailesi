@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Pixelify Sans", sans-serif;
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 12%, rgba(175,28,28,1) 49%, rgba(17,48,117,1) 89%);color: white;
+    background-attachment: fixed;
+}
+nav{
+    width: 100%;
+    justify-content: space-around;
+    display: flex;
+    padding: 30px 0;
+    background-color: rgb(56, 55, 55);
+}
+
+.i{
+    display: flex;
+    flex-direction: column; 
+    width: 350px;
+}
+.icon_and_bootstarp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+}
+.icon_b{
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 3px 4px;
+    
+
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+a{
+    text-decoration-line: none;color: white;
+}
+header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 100px;
+}
+.acount {
+    width: 150px;height: 150px;
+    border-radius: 50%;
+    padding: 10px;
+    background-color: white;
+
+} 
+.fa-sharp{
+    font-size: 100px;
+    color: black;
+}
+header > div{
+    width: 250px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.div{
+    background: rgb(175,28,28);
+    background: linear-gradient(90deg, rgba(175,28,28,1) 0%, rgba(2,0,36,1) 0%, rgba(28,28,175,1) 0%, rgba(4,4,19,1) 100%);
+    width: 100%;
+    display: flex;
+    text-align:center;
+    justify-content: center;
+
+}
+.div > div{
+    width: 55%;
+    text-align: left;
+    padding: 90px;
+}
+.bosh{
+    width: 100%;
+    height: 50vh;
+}
+.sari{
+    background: rgb(175,28,28);
+    background: linear-gradient(90deg, rgba(175,28,28,1) 0%, rgba(2,0,36,1) 0%, rgba(28,28,175,1) 0%, rgba(69,87,104,1) 0%, rgba(85,95,75,1) 0%, rgba(123,122,51,1) 0%, rgba(255,237,0,1) 0%, rgba(181,163,16,1) 58%, rgba(81,200,11,1) 100%);
+    width: 100%;
+    display: flex;
+    text-align:center;
+    justify-content: center;
+}
+.sari > div{
+    width: 59%;
+    text-align: left;
+    padding: 100px;
+}
+.son{
+    width: 100%;
+    display: flex;
+    background-color: rgb(56, 55, 55);
+    text-align:center;
+    justify-content: center;
+}
+.son > div{
+    width: 30%;
+    padding: 40px;
+}
