@@ -1,0 +1,74 @@
+{
+    "cards": [
+      {
+        "id": "1",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Grilled Beef with potatoes",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      },
+      {
+        "id": "2",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Fruit Vanilla Ice Cream",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      },
+      {
+        "id": "3",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Asian Hoisin Pork",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      },
+      {
+        "id": "4",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Spicy Fried Rice & Bacon",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      },
+      {
+        "id": "5",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Mango Chili Chutney",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      },
+      {
+        "id": "6",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Savory Watercress Chinese Pancakes",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      },
+      {
+        "id": "7",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Soup With Vegetables And Meat",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      },
+      {
+        "id": "8",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Udon Noodles With Vegetables",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      },
+      {
+        "id": "9",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Baked Lobster With A Garnish",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      },
+      {
+        "id": "10",
+        "image": "https://rafayj.com/wp-content/uploads/2021/04/alex-munsell-auIbTAcSH6E-unsplash-scaled.jpg",
+        "name": "Octopus with Vegetables",
+        "description": "Meat, Potatoes, Rice, Tomatoe",
+        "cost":"29$"
+      }
+    ]
+  }

@@ -1,0 +1,53 @@
+*{ 
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 21px;
+    background-color: black;
+}
+
+#qutu{
+    width: 160px;
+    height: 60px;
+    background-color: white;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    overflow: hidden;
+    scale: 1;
+}
+button{
+    padding: 5px 60px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: chartreuse;
+
+}
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-bottom: 20px;
+}  
+
+
+
+#textColor{
+    color: red;
+}
+
